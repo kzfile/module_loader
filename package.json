@@ -9,7 +9,6 @@
   "author": "kzfile",
   "license": "MIT",
   "dependencies": {
-    "xtend": "^4.0.1"
   },
   "repository": {
     "type": "git",
