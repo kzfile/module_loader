@@ -1,0 +1,23 @@
+{
+  "name": "module_loader",
+  "version": "0.0.1",
+  "description": "Automatic loads modules in specially appointed configs and locations.",
+  "main": "module_loader.js",
+  "scripts": {
+    "test": "mocha ./test/index.js"
+  },
+  "author": "kzfile",
+  "license": "MIT",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kzfile/module_loader.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
