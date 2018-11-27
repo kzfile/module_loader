@@ -7,7 +7,7 @@ Somebody says that convention is greater than configuration,so I make some stric
 ## Install
 
 ```
-npm i module_loader -S
+npm i kz_loader -S
 ```
 
 ## Test

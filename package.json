@@ -1,5 +1,5 @@
 {
-  "name": "module_loader",
+  "name": "kz_loader",
   "version": "0.0.1",
   "description": "Automatic loads modules in specially appointed configs and locations.",
   "main": "module_loader.js",
@@ -8,8 +8,7 @@
   },
   "author": "kzfile",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/kzfile/module_loader.git"
